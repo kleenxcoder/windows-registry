@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Tracing\RazerInstaller_RASAPI32]
+"Start"=dword:00000004
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Tracing\RazerInstaller_RASMANCS]
+"Start"=dword:00000004
+
